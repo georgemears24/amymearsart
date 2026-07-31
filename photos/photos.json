@@ -1,0 +1,66 @@
+[
+
+    {
+        "file": "Acrylic paintings/1Autumn woods.jpg",
+        "title": "Autumn Woods",
+        "Section": "Acrylic Paintings",
+        "description": ""
+    },
+    {
+        "file": "Acrylic paintings/4Fetcham Park House 2.jpg",
+        "title": "Fetcham Park House",
+        "Section": "Acrylic Paintings",
+        "description": ""
+    },
+    {
+        "file": "Acrylic paintings/6Bridge of Spies.jpg",
+        "title": "Bridge of Spies",
+        "Section": "Acrylic Paintings",
+        "description": ""
+    },
+    {
+        "file": "Acrylic paintings/8Opera House.jpg",
+        "title": "Opera House",
+        "Section": "Acrylic Paintings",
+        "description": ""
+    },
+    {
+        "file": "Acrylic paintings/9Birds.jpg",
+        "title": "Birds",
+        "Section": "Acrylic Paintings",
+        "description": ""
+    },
+
+    {
+        "file": "Ink and Watercolours/2Wave.jpg",
+        "title": "Wave",
+        "Section": "Ink and Watercolours",
+        "description": ""
+    },
+    {
+        "file": "Ink and Watercolours/3Silk Road.jpg",
+        "title": "Silk Road",
+        "Section": "Ink and Watercolours",
+        "description": ""
+    },
+    {
+        "file": "Ink and Watercolours/5Tortoise.jpg",
+        "title": "Tortoise",
+        "Section": "Ink and Watercolours",
+        "description": ""
+    },
+
+        {
+        "file": "Connections/11Worms.jpg",
+        "title": "Worms",
+        "Section": "Connections",
+        "description": ""
+    },
+    {
+        "file": "Connections/12Cats.jpg",
+        "title": "Cats",
+        "Section": "Connections",
+        "description": ""
+    }
+
+]
