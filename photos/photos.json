@@ -1,65 +1,65 @@
 [
 
     {
-        "file": "Acrylic paintings/1Autumn woods.jpg",
+        "file": "photos/Acrylic paintings/1Autumn woods.jpg",
         "title": "Autumn Woods",
-        "Section": "Acrylic Paintings",
+        "section": "Acrylic Paintings",
         "description": ""
     },
     {
-        "file": "Acrylic paintings/4Fetcham Park House 2.jpg",
+        "file": "photos/Acrylic paintings/4Fetcham Park House 2.jpg",
         "title": "Fetcham Park House",
-        "Section": "Acrylic Paintings",
+        "section": "Acrylic Paintings",
         "description": ""
     },
     {
-        "file": "Acrylic paintings/6Bridge of Spies.jpg",
+        "file": "photos/Acrylic paintings/6Bridge of Spies.jpg",
         "title": "Bridge of Spies",
-        "Section": "Acrylic Paintings",
+        "section": "Acrylic Paintings",
         "description": ""
     },
     {
-        "file": "Acrylic paintings/8Opera House.jpg",
+        "file": "photos/Acrylic paintings/8Opera House.jpg",
         "title": "Opera House",
-        "Section": "Acrylic Paintings",
+        "section": "Acrylic Paintings",
         "description": ""
     },
     {
-        "file": "Acrylic paintings/9Birds.jpg",
+        "file": "photos/Acrylic paintings/9Birds.jpg",
         "title": "Birds",
-        "Section": "Acrylic Paintings",
+        "section": "Acrylic Paintings",
         "description": ""
     },
 
     {
-        "file": "Ink and Watercolours/2Wave.jpg",
+        "file": "photos/Ink and Watercolours/2Wave.jpg",
         "title": "Wave",
-        "Section": "Ink and Watercolours",
+        "section": "Ink and Watercolours",
         "description": ""
     },
     {
-        "file": "Ink and Watercolours/3Silk Road.jpg",
+        "file": "photos/Ink and Watercolours/3Silk Road.jpg",
         "title": "Silk Road",
-        "Section": "Ink and Watercolours",
+        "section": "Ink and Watercolours",
         "description": ""
     },
     {
-        "file": "Ink and Watercolours/5Tortoise.jpg",
+        "file": "photos/Ink and Watercolours/5Tortoise.jpg",
         "title": "Tortoise",
-        "Section": "Ink and Watercolours",
+        "section": "Ink and Watercolours",
         "description": ""
     },
 
         {
-        "file": "Connections/11Worms.jpg",
+        "file": "photos/Connections/11Worms.jpg",
         "title": "Worms",
-        "Section": "Connections",
+        "section": "Connections",
         "description": ""
     },
     {
-        "file": "Connections/12Cats.jpg",
+        "file": "photos/Connections/12Cats.jpg",
         "title": "Cats",
-        "Section": "Connections",
+        "section": "Connections",
         "description": ""
     }
 
