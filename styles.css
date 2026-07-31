@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -16,6 +17,11 @@ header {
     color: white;
     text-align: center;
     padding: 2rem;
+}
+
+.about-text p {
+    margin-bottom: 20px;
+    line-height: 1.7;
 }
 
 header p {
@@ -198,6 +204,7 @@ main {
 
 .gallery-section {
     margin-bottom: 60px;
+    scroll-margin-top: 30px;
 }
 
 .image-grid {
@@ -208,7 +215,6 @@ main {
 
     gap: 25px;
 }
-
 
 .image-card {
 
@@ -223,7 +229,6 @@ main {
 
     transition: transform 0.2s;
 }
-
 
 .image-card:hover {
     transform: translateY(-5px);

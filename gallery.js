@@ -64,7 +64,8 @@ function buildGallery(images) {
                     <div class="image-card">
 
                         <img src="${image.file}"
-                             alt="${image.title}">
+                             alt="${image.title}"
+                             loading="lazy">
 
                         <h3>${image.title}</h3>
 

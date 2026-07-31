@@ -30,6 +30,97 @@
         "section": "Acrylic Paintings",
         "description": ""
     },
+    {
+        "file": "photos/Acrylic paintings/10Brandenberg Gate 2.jpg",
+        "title": "Brandenberg Gate",
+        "section": "Acrylic Paintings",
+        "description": ""
+    },
+    {
+        "file": "photos/Acrylic paintings/17Church.jpg",
+        "title": "Church",
+        "section": "Acrylic Paintings",
+        "description": ""
+    },
+    {
+        "file": "photos/Acrylic paintings/18Malta.jpg",
+        "title": "Malta",
+        "section": "Acrylic Paintings",
+        "description": ""
+    },
+    {
+        "file": "photos/Acrylic paintings/19Sea Creatures.jpg",
+        "title": "Sea Creatures",
+        "section": "Acrylic Paintings",
+        "description": ""
+    },
+    {
+        "file": "photos/Acrylic paintings/20Rowing on the Cam.jpg",
+        "title": "Rowing on the Cam",
+        "section": "Acrylic Paintings",
+        "description": ""
+    },
+    {
+        "file": "photos/Acrylic paintings/21Avebury.jpg",
+        "title": "Avebury",
+        "section": "Acrylic Paintings",
+        "description": ""
+    },
+    {
+        "file": "photos/Acrylic paintings/22Hadrian_s Wall.jpg",
+        "title": "Hadrian's Wall",
+        "section": "Acrylic Paintings",
+        "description": ""
+    },
+    {
+        "file": "photos/Acrylic paintings/23Stonehenge.jpg",
+        "title": "Stonehenge",
+        "section": "Acrylic Paintings",
+        "description": ""
+    },
+    {
+        "file": "photos/Acrylic paintings/24Phonehenge.jpg",
+        "title": "Phonehenge",
+        "section": "Acrylic Paintings",
+        "description": ""
+    },
+    {
+        "file": "photos/Acrylic paintings/25Cathedral.jpg",
+        "title": "Cathedral",
+        "section": "Acrylic Paintings",
+        "description": ""
+    },
+    {
+        "file": "photos/Acrylic paintings/26Paris Cafe.jpg",
+        "title": "Paris Cafe",
+        "section": "Acrylic Paintings",
+        "description": ""
+    },
+    {
+        "file": "photos/Acrylic paintings/36Teddy.jpg",
+        "title": "Teddy",
+        "section": "Acrylic Paintings",
+        "description": ""
+    },
+    {
+        "file": "photos/Acrylic paintings/38Sunflower.jpg",
+        "title": "Sunflower",
+        "section": "Acrylic Paintings",
+        "description": ""
+    },
+    {
+        "file": "photos/Acrylic paintings/Guildford High Street.jpg",
+        "title": "Guildford High Street",
+        "section": "Acrylic Paintings",
+        "description": ""
+    },
+    {
+        "file": "photos/Acrylic paintings/Lake Bled, Slovenia.jpg",
+        "title": "Lake Bled, Slovenia",
+        "section": "Acrylic Paintings",
+        "description": ""
+    },
+
 
     {
         "file": "photos/Ink and Watercolours/2Wave.jpg",
@@ -49,8 +140,33 @@
         "section": "Ink and Watercolours",
         "description": ""
     },
+    {
+        "file": "photos/Ink and Watercolours/37Amy Mears watercolourflowers Daisy Projectv2.jpg",
+        "title": "Watercolour flowers",
+        "section": "Ink and Watercolours",
+        "description": ""
+    },
+    {
+        "file": "photos/Ink and Watercolours/Amy Swan painting v2.jpg",
+        "title": "Swan painting",
+        "section": "Ink and Watercolours",
+        "description": ""
+    },
+    {
+        "file": "photos/Ink and Watercolours/Bear Hugsv2.jpg",
+        "title": "Bear Hugs",
+        "section": "Ink and Watercolours",
+        "description": ""
+    },
+    {
+        "file": "photos/Ink and Watercolours/Pier.jpg",
+        "title": "Pier",
+        "section": "Ink and Watercolours",
+        "description": ""
+    },
 
-        {
+
+    {
         "file": "photos/Connections/11Worms.jpg",
         "title": "Worms",
         "section": "Connections",
@@ -59,6 +175,30 @@
     {
         "file": "photos/Connections/12Cats.jpg",
         "title": "Cats",
+        "section": "Connections",
+        "description": ""
+    },
+    {
+        "file": "photos/Connections/13Bugs.jpg",
+        "title": "Bugs",
+        "section": "Connections",
+        "description": ""
+    },
+    {
+        "file": "photos/Connections/14Bears.jpg",
+        "title": "Bears",
+        "section": "Connections",
+        "description": ""
+    },
+    {
+        "file": "photos/Connections/15Bees.jpg",
+        "title": "Bees",
+        "section": "Connections",
+        "description": ""
+    },
+    {
+        "file": "photos/Connections/16Geese.jpg",
+        "title": "Geese",
         "section": "Connections",
         "description": ""
     }
