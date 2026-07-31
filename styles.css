@@ -123,6 +123,7 @@ body {
 
     font-size: 2rem;
     cursor: pointer;
+    text-decoration: none;
 
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 
@@ -138,4 +139,20 @@ body {
 .card:hover {
     transform: translateY(-6px);
     box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
+
+.about-layout {
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.about-layout img {
+    width: 250px;
+    border-radius: 12px;
+}
+
+.about-text {
+    max-width: 600px;
 }

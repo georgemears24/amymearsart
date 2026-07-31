@@ -10,14 +10,6 @@
 
     <div id="header"></div>
 
-    <script>
-    fetch("components/header.html")
-        .then(response => response.text())
-        .then(html => {
-            document.getElementById("header").innerHTML = html;
-        });
-    </script>
-
     <main>
         <div id="gallery" class="gallery">
             <img src="photos/Acrylic paintings/1Autumn woods.jpg" alt="Autumn Woods" data-title="Autumn Woods">
@@ -29,6 +21,7 @@
         <p id="message"></p>
     </main>
 
-    <script src="script.js"></script>
+     <script src="components/header.js"></script>
+
 </body>
 </html>
