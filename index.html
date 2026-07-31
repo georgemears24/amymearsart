@@ -10,18 +10,63 @@
 
     <div id="header"></div>
 
-    <main>
-        <div id="gallery" class="gallery">
-            <img src="photos/Acrylic paintings/1Autumn woods.jpg" alt="Autumn Woods" data-title="Autumn Woods">
-            <img src="photos/Acrylic paintings/4Fetcham Park House 2.jpg" alt="Fetcham Park House" data-title="Fetcham Park House">
-            <img src="photos/Acrylic paintings/6Bridge of Spies.jpg" alt="Bridge of Spies" data-title="Bridge of Spies">
-            <img src="photos/Acrylic paintings/7Abstract shapes.jpg" alt="Abstract Shapes" data-title="Abstract Shapes">
-        </div>
+    <main class="gallery-layout">
 
-        <p id="message"></p>
+        <aside class="sidebar">
+            <h3>Gallery</h3>
+
+            <a href="#nature">🏔 Nature</a>
+            <a href="#cities">🏙 Cities</a>
+            <a href="#travel">✈ Travel</a>
+        </aside>
+
+
+        <section class="gallery-content">
+
+            <section id="nature" class="gallery-section">
+
+                <h2>Nature</h2>
+
+                <div class="image-grid">
+
+                    <div class="image-card">
+                        <img src="photos/Acrylic paintings/1Autumn woods.jpg">
+                        <h3>Morning Mountains</h3>
+                        <p>A quiet sunrise above the valley.</p>
+                    </div>
+
+                    <div class="image-card">
+                        <img src="photos/Acrylic paintings/4Fetcham Park House 2.jpg">
+                        <h3>Ancient Forest</h3>
+                        <p>A walk through the woods.</p>
+                    </div>
+
+                </div>
+
+            </section>
+
+
+            <section id="cities" class="gallery-section">
+
+                <h2>Cities</h2>
+
+                <div class="image-grid">
+
+                    <div class="image-card">
+                        <img src="photos/Acrylic paintings/6Bridge of Spies.jpg">
+                        <h3>Night Skyline</h3>
+                        <p>The city lights after dark.</p>
+                    </div>
+
+                </div>
+
+            </section>
+
+        </section>
+
     </main>
 
-     <script src="components/header.js"></script>
+
+    <script src="components/header.js"></script>
 
 </body>
-</html>
