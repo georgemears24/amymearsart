@@ -63,17 +63,18 @@ function buildGallery(images) {
                 grid.innerHTML += `
                     <div class="image-card">
 
-                        <img src="webphotos/${image.file}.webp"
-                             alt="${image.title}"
-                             loading="lazy">
+                        <a href="image.html?id=${image.id}">
+
+                            <img src="webphotos/${image.file}.webp"
+                                alt="${image.title}"
+                                loading="lazy">
+
+                        </a>
 
                         <h3>${image.title}</h3>
 
-                        <p>${image.description}</p>
-
                     </div>
                 `;
-
             });
 
     });

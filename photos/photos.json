@@ -1,120 +1,145 @@
 [
 
     {
+        "id": 0,
         "file": "Acrylic paintings/1Autumn woods",
         "title": "Autumn Woods",
         "section": "Acrylic Paintings",
-        "description": ""
+        "description": ["This is a test description where you can talk about the painting, its techniques and its motivation.",
+        "This is a test description where you can talk about the painting, its techniques and its motivation.",
+        "This is a test description where you can talk about the painting, its techniques and its motivation.",
+        "This is a test description where you can talk about the painting, its techniques and its motivation.",
+        "This is a test description where you can talk about the painting, its techniques and its motivation."
+        ]
     },
     {
+        "id": 1,
         "file": "Acrylic paintings/4Fetcham Park House 2",
         "title": "Fetcham Park House",
         "section": "Acrylic Paintings",
         "description": ""
     },
     {
+        "id": 2,
         "file": "Acrylic paintings/6Bridge of Spies",
         "title": "Bridge of Spies",
         "section": "Acrylic Paintings",
         "description": ""
     },
     {
+        "id": 3,
         "file": "Acrylic paintings/8Opera House",
         "title": "Opera House",
         "section": "Acrylic Paintings",
         "description": ""
     },
     {
+        "id": 4,
         "file": "Acrylic paintings/9Birds",
         "title": "Birds",
         "section": "Acrylic Paintings",
         "description": ""
     },
     {
+        "id": 5,
         "file": "Acrylic paintings/10Brandenberg Gate 2",
         "title": "Brandenberg Gate",
         "section": "Acrylic Paintings",
         "description": ""
     },
     {
+        "id": 6,
         "file": "Acrylic paintings/17Church",
         "title": "Church",
         "section": "Acrylic Paintings",
         "description": ""
     },
     {
+        "id": 7,
         "file": "Acrylic paintings/18Malta",
         "title": "Malta",
         "section": "Acrylic Paintings",
         "description": ""
     },
     {
+        "id": 8,
         "file": "Acrylic paintings/19Sea Creatures",
         "title": "Sea Creatures",
         "section": "Acrylic Paintings",
         "description": ""
     },
     {
+        "id": 9,
         "file": "Acrylic paintings/20Rowing on the Cam",
         "title": "Rowing on the Cam",
         "section": "Acrylic Paintings",
         "description": ""
     },
     {
+        "id": 10,
         "file": "Acrylic paintings/21Avebury",
         "title": "Avebury",
         "section": "Acrylic Paintings",
         "description": ""
     },
     {
+        "id": 11,
         "file": "Acrylic paintings/22Hadrian_s Wall",
         "title": "Hadrian's Wall",
         "section": "Acrylic Paintings",
         "description": ""
     },
     {
+        "id": 12,
         "file": "Acrylic paintings/23Stonehenge",
         "title": "Stonehenge",
         "section": "Acrylic Paintings",
         "description": ""
     },
     {
+        "id": 13,
         "file": "Acrylic paintings/24Phonehenge",
         "title": "Phonehenge",
         "section": "Acrylic Paintings",
         "description": ""
     },
     {
+        "id": 14,
         "file": "Acrylic paintings/25Cathedral",
         "title": "Cathedral",
         "section": "Acrylic Paintings",
         "description": ""
     },
     {
+        "id": 15,
         "file": "Acrylic paintings/26Paris Cafe",
         "title": "Paris Cafe",
         "section": "Acrylic Paintings",
         "description": ""
     },
     {
+        "id": 16,
         "file": "Acrylic paintings/36Teddy",
         "title": "Teddy",
         "section": "Acrylic Paintings",
         "description": ""
     },
     {
+        "id": 17,
         "file": "Acrylic paintings/38Sunflower",
         "title": "Sunflower",
         "section": "Acrylic Paintings",
         "description": ""
     },
     {
+        "id": 18,
         "file": "Acrylic paintings/Guildford High Street",
         "title": "Guildford High Street",
         "section": "Acrylic Paintings",
         "description": ""
     },
     {
+        "id": 19,
         "file": "Acrylic paintings/Lake Bled, Slovenia",
         "title": "Lake Bled, Slovenia",
         "section": "Acrylic Paintings",
@@ -123,42 +148,49 @@
 
 
     {
+        "id": 20,
         "file": "Ink and Watercolours/2Wave",
         "title": "Wave",
         "section": "Ink and Watercolours",
         "description": ""
     },
     {
+        "id": 21,
         "file": "Ink and Watercolours/3Silk Road",
         "title": "Silk Road",
         "section": "Ink and Watercolours",
         "description": ""
     },
     {
+        "id": 22,
         "file": "Ink and Watercolours/5Tortoise",
         "title": "Tortoise",
         "section": "Ink and Watercolours",
         "description": ""
     },
     {
+        "id": 23,
         "file": "Ink and Watercolours/37Amy Mears watercolourflowers Daisy Projectv2",
         "title": "Watercolour flowers",
         "section": "Ink and Watercolours",
         "description": ""
     },
     {
+        "id": 24,
         "file": "Ink and Watercolours/Amy Swan painting v2",
         "title": "Swan painting",
         "section": "Ink and Watercolours",
         "description": ""
     },
     {
+        "id": 25,
         "file": "Ink and Watercolours/Bear Hugsv2",
         "title": "Bear Hugs",
         "section": "Ink and Watercolours",
         "description": ""
     },
     {
+        "id": 26,
         "file": "Ink and Watercolours/Pier",
         "title": "Pier",
         "section": "Ink and Watercolours",
@@ -167,36 +199,42 @@
 
 
     {
+        "id": 27,
         "file": "Connections/11Worms",
         "title": "Worms",
         "section": "Connections",
         "description": ""
     },
     {
+        "id": 28,
         "file": "Connections/12Cats",
         "title": "Cats",
         "section": "Connections",
         "description": ""
     },
     {
+        "id": 29,
         "file": "Connections/13Bugs",
         "title": "Bugs",
         "section": "Connections",
         "description": ""
     },
     {
+        "id": 30,
         "file": "Connections/14Bears",
         "title": "Bears",
         "section": "Connections",
         "description": ""
     },
     {
+        "id": 31,
         "file": "Connections/15Bees",
         "title": "Bees",
         "section": "Connections",
         "description": ""
     },
     {
+        "id": 32,
         "file": "Connections/16Geese",
         "title": "Geese",
         "section": "Connections",
