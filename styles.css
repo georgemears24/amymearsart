@@ -279,6 +279,8 @@ main {
     max-width: 1600px;
     max-height: 80vh;
 
+    max-width: 90vw;
+
     width: auto;
     height: auto;
     margin-bottom: 2rem;
