@@ -1,4 +1,4 @@
-fetch("photos/photos.json")
+fetch("photos/photos.json?v=2")
     .then(response => response.json())
     .then(images => {
 
