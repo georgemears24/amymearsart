@@ -51,7 +51,7 @@ button:hover {
 
 main {
     max-width: 1000px;
-    margin: 2rem auto;
+    margin: 1rem auto;
     padding: 0 1rem;
 }
 
@@ -149,6 +149,7 @@ main {
 
 .about-layout {
     display: flex;
+    flex-direction: column;
     gap: 40px;
     align-items: center;
     margin-top: 40px;
@@ -165,37 +166,33 @@ main {
 
 .gallery-layout {
     display: flex;
-    gap: 40px;
+    flex-direction: column;
+    gap: 10px;
 
     max-width: 1200px;
-    margin: 40px auto;
+    margin: 10px auto;
     padding: 0 30px;
 }
 
-/* Left menu */
-
 .sidebar {
-    width: 220px;
+    width: fit-content;
+    margin: 0 auto;
 
     position: sticky;
     top: 170px;
 
-    height: fit-content;
-
     background: white;
-    padding: 25px;
-
+    padding: 10px;
     border-radius: 12px;
-
     box-shadow: 0 5px 15px rgba(0,0,0,0.1);
 }
 
 
 .sidebar a {
-    display: block;
+    display: flex;
 
-    padding: 12px;
-    margin-top: 10px;
+    padding: 5px;
+    margin-top: 0px;
 
     color: #333;
     text-decoration: none;
@@ -208,6 +205,12 @@ main {
     color: #2d6cdf;
 }
 
+#sections {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
 .gallery-content {
     flex: 1;
 }
@@ -215,7 +218,7 @@ main {
 
 .gallery-section {
     margin-bottom: 60px;
-    scroll-margin-top: 170px;
+    scroll-margin-top: 250px;
 }
 
 .image-grid {
