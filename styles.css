@@ -185,6 +185,7 @@ main {
     padding: 10px;
     border-radius: 12px;
     box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    z-index: 1000;
 }
 
 
@@ -215,19 +216,19 @@ main {
     flex: 1;
 }
 
-
 .gallery-section {
     margin-bottom: 60px;
     scroll-margin-top: 250px;
+    text-align: center;
+    margin-bottom: 12rem;
 }
 
 .image-grid {
 
     display: grid;
-
     grid-template-columns: repeat(auto-fill, minmax(250px, 300px));
-
     gap: 25px;
+    justify-content: center;
 }
 
 .image-card {
@@ -261,6 +262,7 @@ main {
 .image-card h3 {
 
     padding: 15px 15px 5px;
+    text-align: center;
 
 }
 
