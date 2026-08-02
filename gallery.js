@@ -73,6 +73,8 @@ function buildGallery(images) {
 
                         <h3>${image.title}</h3>
 
+                        <p>${image.status}</p>
+
                     </div>
                 `;
             });
