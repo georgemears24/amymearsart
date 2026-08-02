@@ -164,6 +164,11 @@ main {
     max-width: 600px;
 }
 
+.about-link {
+    text-decoration: none;
+    color: #1a75d1;
+}
+
 .gallery-layout {
     display: flex;
     flex-direction: column;
@@ -306,4 +311,18 @@ main {
     max-width: 1200px;
     text-align: left;
     padding: 0 1rem;
+    max-width: 600px;
+}
+
+.contact-page {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.contact-text {
+    max-width: 600px;
 }

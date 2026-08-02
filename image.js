@@ -15,16 +15,16 @@ fetch("photos/photos.json")
 
             <h1>${image.title}</h1>
 
-            <img 
-                src="photos/${image.file}.jpg" 
-                class="full-image"
-            >
-
             <p>${
                 Array.isArray(image.description)
                     ? image.description.join("")
                     : image.description
             }</p>
+
+            <img 
+                src="photos/${image.file}.jpg" 
+                class="full-image"
+            >
 
         `;
 

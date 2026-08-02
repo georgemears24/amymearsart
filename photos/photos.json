@@ -5,145 +5,142 @@
         "file": "Acrylic paintings/1Autumn woods",
         "title": "Autumn Woods",
         "section": "Acrylic Paintings",
-        "description": ["This is a test description where you can talk about the painting, its techniques and its motivation.",
-        "This is a test description where you can talk about the painting, its techniques and its motivation.",
-        "This is a test description where you can talk about the painting, its techniques and its motivation.",
-        "This is a test description where you can talk about the painting, its techniques and its motivation.",
-        "This is a test description where you can talk about the painting, its techniques and its motivation."
-        ]
+        "description": ["Inspired by pointillist art and an autumnal walk. I love seeing pheasants at this time of the year!"]
     },
     {
         "id": 1,
         "file": "Acrylic paintings/4Fetcham Park House 2",
         "title": "Fetcham Park House",
         "section": "Acrylic Paintings",
-        "description": ""
+        "description": "A local heritage building now used as a business and events centre."
     },
     {
         "id": 2,
         "file": "Acrylic paintings/6Bridge of Spies",
         "title": "Bridge of Spies",
         "section": "Acrylic Paintings",
-        "description": ""
+        "description": "Inspired by a visit to Berlin and Potsdam in Germany. I was fascinated by the wartime story associated with this bridge. "
     },
     {
         "id": 3,
         "file": "Acrylic paintings/8Opera House",
         "title": "Opera House",
         "section": "Acrylic Paintings",
-        "description": ""
+        "description": "A famous Australian landmark shown in the native Aboriginal style."
     },
     {
         "id": 4,
         "file": "Acrylic paintings/9Birds",
         "title": "Birds",
         "section": "Acrylic Paintings",
-        "description": ""
+        "description": "Inspired by the yin yang style of Hilda Klimt and a photo of a bird silhouette taken on a visit to RSPB Pulborough."
     },
     {
         "id": 5,
         "file": "Acrylic paintings/10Brandenberg Gate 2",
         "title": "Brandenberg Gate",
         "section": "Acrylic Paintings",
-        "description": ""
+        "description": "Another global landmark captured in my own style after my visit to Berlin."
     },
     {
         "id": 6,
         "file": "Acrylic paintings/17Church",
         "title": "Church",
         "section": "Acrylic Paintings",
-        "description": ""
+        "description": "I initially based this on a church I visited in Saxmundian in Suffolk, but this is a typical English church scene and also reminds me of a local Guildford church St Marthas."
     },
     {
         "id": 7,
         "file": "Acrylic paintings/18Malta",
         "title": "Malta",
         "section": "Acrylic Paintings",
-        "description": ""
+        "description": "Inspired by a family holiday in Malta - a country with many churchs, historic buildings and unique fishing villages with distinctive boats."
     },
     {
         "id": 8,
         "file": "Acrylic paintings/19Sea Creatures",
         "title": "Sea Creatures",
         "section": "Acrylic Paintings",
-        "description": ""
+        "description": "A fun abstract-style piece"
     },
     {
         "id": 9,
         "file": "Acrylic paintings/20Rowing on the Cam",
         "title": "Rowing on the Cam",
         "section": "Acrylic Paintings",
-        "description": ""
+        "description": "For my brother, who captained his rowing team at Trinity College, Cambridge."
     },
     {
         "id": 10,
         "file": "Acrylic paintings/21Avebury",
         "title": "Avebury",
         "section": "Acrylic Paintings",
-        "description": ""
+        "description": "Inspired by my visit to the standing stone circle in Avebury, Wiltshire. "
     },
     {
         "id": 11,
         "file": "Acrylic paintings/22Hadrian_s Wall",
         "title": "Hadrian's Wall",
         "section": "Acrylic Paintings",
-        "description": ""
+        "description": "Another family holiday destination, I was impressed by the scale of this Roman Wall in this vast, and often deserted landscape."
     },
     {
         "id": 12,
         "file": "Acrylic paintings/23Stonehenge",
         "title": "Stonehenge",
         "section": "Acrylic Paintings",
-        "description": ""
+        "description": "This ancient site is one I drive past on visits to family in Devon. This was my first painting in what has now become my signature style."
     },
     {
         "id": 13,
         "file": "Acrylic paintings/24Phonehenge",
         "title": "Phonehenge",
         "section": "Acrylic Paintings",
-        "description": ""
+        "description": "Inspired by a discussion on Surrealism, I reinterpreted my Stonehenge piece for the modern era. What does society worship today?"
+
     },
     {
         "id": 14,
         "file": "Acrylic paintings/25Cathedral",
         "title": "Cathedral",
         "section": "Acrylic Paintings",
-        "description": ""
+        "description": "Based on a visit to Colgne cathedral although reimagined in a more impressionistic way"
     },
     {
         "id": 15,
         "file": "Acrylic paintings/26Paris Cafe",
         "title": "Paris Cafe",
         "section": "Acrylic Paintings",
-        "description": ""
+        "description": "After my visit to Paris in 2023 my key memory was of the cafes and I used a pointillist style and silhouettes to show the night scene."
+
     },
     {
         "id": 16,
         "file": "Acrylic paintings/36Teddy",
         "title": "Teddy",
         "section": "Acrylic Paintings",
-        "description": ""
+        "description": "My beloved childhood bear ready for a summer picnic"
     },
     {
         "id": 17,
         "file": "Acrylic paintings/38Sunflower",
         "title": "Sunflower",
         "section": "Acrylic Paintings",
-        "description": ""
+        "description": "Sunflowers will always be cheerful!"
     },
     {
         "id": 18,
         "file": "Acrylic paintings/Guildford High Street",
         "title": "Guildford High Street",
         "section": "Acrylic Paintings",
-        "description": ""
+        "description": "My home town with the iconic clock and cobbled street formed from around 60,000 granite \"setts\". I have shown this in a way that highlights its historical character."
     },
     {
         "id": 19,
         "file": "Acrylic paintings/Lake Bled, Slovenia",
         "title": "Lake Bled, Slovenia",
         "section": "Acrylic Paintings",
-        "description": ""
+        "description": "A beautiful holiday desitation where I took countless photos. This represents the distinctive island where I rang the Church bell three times in the hope that, according to legend, my wishes would be granted."
     },
 
 
@@ -193,6 +190,14 @@
         "id": 26,
         "file": "Ink and Watercolours/Pier",
         "title": "Pier",
+        "section": "Ink and Watercolours",
+        "description": ""
+    },
+
+    {
+        "id": 33,
+        "file": "Ink and Watercolours/Microbes",
+        "title": "Microbes",
         "section": "Ink and Watercolours",
         "description": ""
     },
