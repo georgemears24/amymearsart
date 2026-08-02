@@ -204,11 +204,12 @@ main {
     text-decoration: none;
 
     border-radius: 8px;
+    text-align: center;
+    align-items: center;
 }
 
 .sidebar a:hover {
-    background: #edf3ff;
-    color: #2d6cdf;
+    background: #f4f5f7;
 }
 
 #sections {
