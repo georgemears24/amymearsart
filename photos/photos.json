@@ -53,8 +53,8 @@
         "file": "Acrylic paintings/17Church",
         "title": "Churchyard",
         "section": "Acrylic Paintings",
-        "status": "",
-        "description": "I initially based this on a church I visited in Saxmundian in Suffolk, but this is a typical English church scene and also reminds me of a local Guildford church St Marthas."
+        "status": "AVAILABLE",
+        "description": "I initially based this on a church I visited in Saxmundham in Suffolk, but this is a typical English church scene and also reminds me of a local Guildford church - St Marthas."
     },
     {
         "id": 7,
@@ -62,7 +62,7 @@
         "title": "Malta",
         "section": "Acrylic Paintings",
         "status": "AVAILABLE",
-        "description": "Inspired by a family holiday in Malta - a country with many churchs, historic buildings and unique fishing villages with distinctive boats."
+        "description": "Inspired by a family holiday in Malta - a country with many churches, historic buildings and unique fishing villages with distinctive boats."
     },
     {
         "id": 8,
@@ -119,7 +119,7 @@
         "title": "Cathedral",
         "section": "Acrylic Paintings",
         "status": "SOLD",
-        "description": "Based on a visit to Colgne cathedral although reimagined in a more impressionistic way"
+        "description": "Based on a visit to Cologne cathedral although reimagined in a more impressionistic way"
     },
     {
         "id": 15,
@@ -160,7 +160,7 @@
         "title": "Lake Bled, Slovenia",
         "section": "Acrylic Paintings",
         "status": "AVAILABLE",
-        "description": "A beautiful holiday desitation where I took countless photos. This represents the distinctive island where I rang the Church bell three times in the hope that, according to legend, my wishes would be granted."
+        "description": "A beautiful holiday destination where I took countless photos. This depicts the distinctive island where I rang the Church bell three times in the hope that, according to legend, my wishes would be granted."
     },
 
 

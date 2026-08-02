@@ -61,21 +61,23 @@ function buildGallery(images) {
             .forEach(image => {
 
                 grid.innerHTML += `
-                    <div class="image-card">
 
-                        <a href="image.html?id=${image.id}">
+                <a href="image.html?id=${image.id}">
+
+                    <div class="image-card">
 
                             <img src="webphotos/${image.file}.webp"
                                 alt="${image.title}"
                                 loading="lazy">
-
-                        </a>
 
                         <h3>${image.title}</h3>
 
                         <p>${image.status}</p>
 
                     </div>
+
+                </a>
+
                 `;
             });
 
