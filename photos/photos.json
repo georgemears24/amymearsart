@@ -236,7 +236,7 @@
         "file": "Connections/11Worms",
         "title": "Worms",
         "section": "Connections",
-        "status": "",
+        "status": "AVAILABLE",
         "description": "Try and figure out what each of the categories are. When you're ready, click the toggle at the bottom to reveal the answers!",
         "info": {
         "top-left": "Book Worm",
@@ -251,7 +251,7 @@
         "file": "Connections/12Cats",
         "title": "Cats",
         "section": "Connections",
-        "status": "",
+        "status": "AVAILABLE",
         "description": "Try and figure out what each of the categories are. When you're ready, click the toggle at the bottom to reveal the answers!",
         "info": {
         "top-left": "Black Cat",
@@ -266,7 +266,7 @@
         "file": "Connections/13Bugs",
         "title": "Bugs",
         "section": "Connections",
-        "status": "",
+        "status": "AVAILABLE",
         "description": "Try and figure out what each of the categories are. When you're ready, click the toggle at the bottom to reveal the answers!",
         "info": {
         "top-left": "Lady Bug",
@@ -281,7 +281,7 @@
         "file": "Connections/14Bears",
         "title": "Bears",
         "section": "Connections",
-        "status": "",
+        "status": "AVAILABLE",
         "description": "Try and figure out what each of the categories are. When you're ready, click the toggle at the bottom to reveal the answers!",
         "info": {
         "top-left": "Bear Market",
@@ -296,7 +296,7 @@
         "file": "Connections/15Bees",
         "title": "Bees",
         "section": "Connections",
-        "status": "",
+        "status": "SOLD",
         "description": "Try and figure out what each of the categories are. When you're ready, click the toggle at the bottom to reveal the answers!",
         "info": {
         "top-left": "Honey Bee",
@@ -311,7 +311,7 @@
         "file": "Connections/16Geese",
         "title": "Geese",
         "section": "Connections",
-        "status": "",
+        "status": "AVAILABLE",
         "description": "Try and figure out what each of the categories are. When you're ready, click the toggle at the bottom to reveal the answers!",
         "info": {
         "top-left": "Mother Goose",
