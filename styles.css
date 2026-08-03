@@ -295,8 +295,8 @@ main {
 
     width: auto;
     height: auto;
-    margin-bottom: 2rem;
-    margin-top: 2rem;
+    margin-bottom: 0rem;
+    margin-top: 0rem;
 }
 
 .image-page {
@@ -341,3 +341,143 @@ main {
 .contact-text {
     max-width: 600px;
 }
+
+.image-wrapper {
+    position: relative;
+    display: inline-block;
+    line-height: 0;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+.image-container {
+    position: relative;
+    margin-bottom: 0rem;
+    margin-top: 0rem;
+}
+
+.image-overlay {
+    position: absolute;
+    inset: 0;
+
+    background: rgba(0,0,0,0.35);
+
+    opacity: 0;
+    transition: opacity 0.3s;
+
+    pointer-events: none;
+}
+
+.image-info {
+    position: absolute;
+
+    color: white;
+
+    max-width: 300px;
+
+    opacity: 0;
+
+    transition: opacity 0.3s, transform 0.3s;
+
+    font-size: 1.5rem;
+    line-height: 1.7;
+}
+
+.top-right {
+    top: 25%;
+    right: 25%;
+    transform: translate(50%, -50%);
+}
+
+.top-left {
+    top: 25%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+}
+
+.bottom-right {
+    top: 75%;
+    right: 25%;
+    transform: translate(50%, -50%);
+}
+
+.bottom-left {
+    top: 75%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+}
+
+.centre {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.image-wrapper.show-info .image-overlay {
+    opacity: 1;
+}
+
+.image-wrapper.show-info .image-info {
+    opacity: 1;
+}
+
+.info-toggle {
+    top: 20px;
+    position: relative;
+
+    width: 100px;
+    height: 40px;
+
+    display: block;
+    margin: 1rem auto 0;
+
+    border: none;
+    border-radius: 20px;
+
+    background: #ddd;
+    color: #222;
+
+    cursor: pointer;
+
+    display: flex;
+    align-items: center;
+
+    padding: 4px;
+
+    transition: background 0.3s ease;
+}
+
+.toggle-circle {
+    width: 32px;
+    height: 32px;
+
+    background: white;
+
+    border-radius: 50%;
+
+    transition: transform 0.3s ease;
+}
+
+.toggle-text {
+
+    position: absolute;
+    right: 12px;
+    transition: all 0.3s ease;
+    font-size: 0.85rem;
+    transition: color 0.3s ease;
+}
+
+.image-wrapper.show-info .info-toggle {
+    background: #333;
+}
+
+.image-wrapper.show-info .toggle-circle {
+    transform: translateX(60px);
+}
+
+.image-wrapper.show-info .toggle-text {
+    left: 12px;
+    right: auto;
+    color: white;
+}
+

@@ -237,7 +237,14 @@
         "title": "Worms",
         "section": "Connections",
         "status": "",
-        "description": ""
+        "description": "Try and figure out what each of the categories are. When you're ready, click the toggle at the bottom to reveal the answers!",
+        "info": {
+        "top-left": "Book Worm",
+        "top-right": "Earth Worm",
+        "bottom-left": "Can of Worms",
+        "bottom-right": "Ear Worm",
+        "centre": "Glow Worm"
+        }
     },
     {
         "id": 28,
@@ -245,7 +252,14 @@
         "title": "Cats",
         "section": "Connections",
         "status": "",
-        "description": ""
+        "description": "Try and figure out what each of the categories are. When you're ready, click the toggle at the bottom to reveal the answers!",
+        "info": {
+        "top-left": "Black Cat",
+        "top-right": "Fat Cat",
+        "bottom-left": "Cat Burglar",
+        "bottom-right": "Scaredy Cat",
+        "centre": "Cheshire Cat"
+        }
     },
     {
         "id": 29,
@@ -253,7 +267,14 @@
         "title": "Bugs",
         "section": "Connections",
         "status": "",
-        "description": ""
+        "description": "Try and figure out what each of the categories are. When you're ready, click the toggle at the bottom to reveal the answers!",
+        "info": {
+        "top-left": "Lady Bug",
+        "top-right": "Computer Bug",
+        "bottom-left": "Stomach Bug",
+        "bottom-right": "Bed Bug",
+        "centre": "Garden Bug"
+        }
     },
     {
         "id": 30,
@@ -261,7 +282,14 @@
         "title": "Bears",
         "section": "Connections",
         "status": "",
-        "description": ""
+        "description": "Try and figure out what each of the categories are. When you're ready, click the toggle at the bottom to reveal the answers!",
+        "info": {
+        "top-left": "Bear Market",
+        "top-right": "The Three Bears",
+        "bottom-left": "Bear Hug",
+        "bottom-right": "Grizzly Bear",
+        "centre": "Teddy Bear"
+        }
     },
     {
         "id": 31,
@@ -269,7 +297,14 @@
         "title": "Bees",
         "section": "Connections",
         "status": "",
-        "description": ""
+        "description": "Try and figure out what each of the categories are. When you're ready, click the toggle at the bottom to reveal the answers!",
+        "info": {
+        "top-left": "Honey Bee",
+        "top-right": "Busy Bee",
+        "bottom-left": "Bee in the Bonnet",
+        "bottom-right": "The Bees Knees",
+        "centre": "Queen Bee"
+        }
     },
     {
         "id": 32,
@@ -277,7 +312,14 @@
         "title": "Geese",
         "section": "Connections",
         "status": "",
-        "description": ""
+        "description": "Try and figure out what each of the categories are. When you're ready, click the toggle at the bottom to reveal the answers!",
+        "info": {
+        "top-left": "Mother Goose",
+        "top-right": "Golden Goose",
+        "bottom-left": "Silly Goose",
+        "bottom-right": "Grey Goose",
+        "centre": "Canada Goose"
+        }
     }
 
 ]
