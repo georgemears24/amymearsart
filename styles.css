@@ -328,6 +328,7 @@ main {
     justify-content: center;
     align-items: center;
     margin-top: 40px;
+    overflow-wrap: anywhere;
 }
 
 .contact-page h1 {
