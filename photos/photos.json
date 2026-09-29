@@ -13,8 +13,8 @@
         "file": "Acrylic paintings/4Fetcham Park House 2",
         "title": "Fetcham Park House",
         "section": "Acrylic Paintings",
-        "status": "AVAILABLE",
-        "description": "A local heritage building now used as a business and events centre."
+        "status": "AVAILABLE THROUGH NEW ASHGATE GALLERY",
+        "description": "A local heritage building now used as a business and events centre. To enquire, please follow the link in the contact page"
     },
     {
         "id": 2,
@@ -151,16 +151,34 @@
         "file": "Acrylic paintings/Guildford High Street",
         "title": "Guildford High Street",
         "section": "Acrylic Paintings",
-        "status": "AVAILABLE THROUGH NEW ASHGATE GALLERY",
-        "description": "My home town with the iconic clock and cobbled street formed from around 60,000 granite \"setts\". I have shown this in a way that highlights its historical character. To enquire, please follow the link in the contact page"
+        "status": "SOLD",
+        "description": "My home town with the iconic clock and cobbled street formed from around 60,000 granite \"setts\". I have shown this in a way that highlights its historical character."
     },
     {
         "id": 19,
         "file": "Acrylic paintings/Lake Bled, Slovenia",
         "title": "Lake Bled, Slovenia",
         "section": "Acrylic Paintings",
-        "status": "AVAILABLE THROUGH NEW ASHGATE GALLERY",
-        "description": "A beautiful holiday destination where I took countless photos. This depicts the distinctive island where I rang the Church bell three times in the hope that, according to legend, my wishes would be granted. To enquire, please follow the link in the contact page"
+        "status": "SOLD",
+        "description": "A beautiful holiday destination where I took countless photos. This depicts the distinctive island where I rang the Church bell three times in the hope that, according to legend, my wishes would be granted."
+    },
+
+    {
+        "id": 19,
+        "file": "Acrylic paintings/Hever Castle",
+        "title": "Hever Castle",
+        "section": "Acrylic Paintings",
+        "status": "AVAILABLE",
+        "description": "Hever Castle, the childhood home of Anne Boleyn.  I enjoyed my visit here in summer 2026 and wanted to capture her symbols of the white falcon and the Tudor rose."
+    },
+
+    {
+        "id": 19,
+        "file": "Acrylic paintings/Painshill Park bridge",
+        "title": "Painshill Park Bridge",
+        "section": "Acrylic Paintings",
+        "status": "AVAILABLE",
+        "description": "This is a beautiful site in Surrey and I loved seeing the different varieties of geese and the herons around the lakes."
     },
 
 
